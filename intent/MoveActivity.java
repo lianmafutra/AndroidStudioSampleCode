@@ -1,4 +1,4 @@
- startActivity(new Intent(getContext(), LaporList.class));  
+  
 // 1. SIMPLE 
   startActivity(new Intent(getContext(), LaporList.class));
   
